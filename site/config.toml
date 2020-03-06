@@ -1,0 +1,38 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Life according to Sathvik"
+theme = ["chunky-poster"]
+images = ["/resources/_gen/images/cover.png"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Hugo Authors"
+  description = "Lorem ipsum dolor sit amet."
+  homepageImage = "/images/homepage-image.jpg"
+  share = true
+  showLanguageSwitcher = false
+
+  [params.prismJS]
+    enable = true
+    theme = "okaidia"
+
+[markup]
+  [markup.highlight]
+    codeFences = false

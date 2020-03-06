@@ -1,0 +1,6 @@
+[submodule "site/themes/hugo-swift-theme"]
+	path = site/themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "site/themes/chunky-poster"]
+	path = site/themes/chunky-poster
+	url = https://github.com/puresyntax71/hugo-theme-chunky-poster.git
