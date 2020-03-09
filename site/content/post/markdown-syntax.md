@@ -1,8 +1,8 @@
 +++
 authors = [
-    "Hugo Authors",
+    "Wanna be hacker",
 ]
-title = "Markdown Syntax Guide"
+title = "Hack the mainframe"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
@@ -19,6 +19,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 images = [
     "markdown-syntax.jpg",
+    "hack-day.gif",
 ]
 +++
 
