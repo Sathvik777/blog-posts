@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
-theme = ["chunky-poster"]
+theme = ["hugo-theme-chunky-poster"]
 
 [menu]
   [[menu.main]]

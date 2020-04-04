@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>event on </title>
+    <link>http://localhost:1313/tags/event/</link>
+    <description>Recent content in event on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recent event picture</title>
+      <link>http://localhost:1313/post/recent-events/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/recent-events/</guid>
+      <description>&lt;p&gt;Showcase the image gallery feature using the &lt;code&gt;Figure&lt;/code&gt; shortcode. Images using the &lt;code&gt;Figure&lt;/code&gt; shortcode will be rendered through &lt;a href=&#34;https://ashleydw.github.io/lightbox/&#34;&gt;&lt;code&gt;ekko-lightbox&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
